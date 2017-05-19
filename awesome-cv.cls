@@ -635,6 +635,19 @@
   \honordatestyle{#4} & \honorpositionstyle{#1}, \honortitlestyle{#2} & \honorlocationstyle{#3} \\
 }
 
+% Define an environment for cvpubs
+\newenvironment{cvpubs}{%
+  \vspace{\acvSectionContentTopSkip}
+  % \begin{center}
+}{%
+  % \end{center}
+}
+% Define a line of cv information(publications),
+% Usage: \cvpub{<title>}
+\newcommand*{\cvpub}[1]{%
+  \honortitlestyle{#1} \\
+}
+
 % Define an environment for cvskill
 \newenvironment{cvskills}{%
   \vspace{\acvSectionContentTopSkip}
