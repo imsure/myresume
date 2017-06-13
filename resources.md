@@ -7,7 +7,7 @@
 - `LinkedIn`, `Indeed`, `Monster`, `Dice`, `Piazza`
 - [Josh McCabe](https://www.linkedin.com/in/josh-mccabe-43542134/)
   mentioned opportunities in Amazon.
-- 
+- a9.com
 
 # Jobs sumbitted
 
@@ -29,3 +29,4 @@
 - Eloquent JavaScript: http://eloquentjavascript.net/
 - Leetcode solutions: https://github.com/fishercoder1534/Leetcode
   https://github.com/haoel/leetcode https://github.com/kamyu104
+- List of awesome university courses for learning Computer Science: https://github.com/chesteve/awesome-courses
