@@ -1,13 +1,16 @@
 # TODOs
 
-- Update LinkedIn.
+- Update LinkedIn. (done)
+- Add tags to Github repos.
 
 # Job sources
 
-- `LinkedIn`, `Indeed`, `Monster`, `Dice`, `Piazza`
+- `LinkedIn`, `Indeed`, `Monster`, `Dice`, `Piazza`, `StackOverflow`
 - [Josh McCabe](https://www.linkedin.com/in/josh-mccabe-43542134/)
   mentioned opportunities in Amazon.
 - a9.com
+- leetcode is also hiring (https://leetcode.com/jobs/)!
+- rackspace (Bare-Metal on-demand Virtual Cloud Server Hosting)
 
 # Jobs sumbitted
 
@@ -29,4 +32,7 @@
 - Eloquent JavaScript: http://eloquentjavascript.net/
 - Leetcode solutions: https://github.com/fishercoder1534/Leetcode
   https://github.com/haoel/leetcode https://github.com/kamyu104
-- List of awesome university courses for learning Computer Science: https://github.com/chesteve/awesome-courses
+- List of awesome university courses for learning Computer Science:
+  https://github.com/chesteve/awesome-courses
+- Harvard Data Science course: http://cs109.github.io/2014/
+- Analysis of Algorithms course by one of CLRS author: http://www.columbia.edu/~cs2035/courses/csor4231.F15/index.html 
