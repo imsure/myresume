@@ -8,17 +8,16 @@
 - `LinkedIn`, `Indeed`, `Monster`, `Dice`, `Piazza`, `StackOverflow`
 - [Josh McCabe](https://www.linkedin.com/in/josh-mccabe-43542134/)
   mentioned opportunities in Amazon.
-- a9.com
-- leetcode is also hiring (https://leetcode.com/jobs/)!
+- http://pachyderm.io/
+- http://meteor.io/
+- hackerrank
+- triplebyte
 - rackspace (Bare-Metal on-demand Virtual Cloud Server Hosting)
 
 # Jobs sumbitted
 
 | Company | Job title | Status | Notes |
 | ------- | ----------- | ------ | ----- |
-| Microchip Technology, Chandler, AZ | [Software Engineer](https://www.linkedin.com/jobs/view/347097325/) | | |
-| Medtronic (MN) | | | Contact [Dr. Jackson](https://www.linkedin.com/in/jadin-jackson-57235520/) see if there is opportunity |
-| [meteor](https://www.meteor.io/) | | | The open source company for JavaScript and GraphQL |
 
 
 # Quick links
