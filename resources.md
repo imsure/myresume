@@ -5,7 +5,8 @@
 
 # Job sources
 
-- `LinkedIn`, `Indeed`, `Monster`, `Dice`, `Piazza`, `StackOverflow`
+- `LinkedIn`, `Indeed`, `Monster`, `Dice`, `Piazza`, `StackOverflow`,
+  `ZipRecruiter`, `techcrunch`
 - [Josh McCabe](https://www.linkedin.com/in/josh-mccabe-43542134/)
   mentioned opportunities in Amazon.
 - http://pachyderm.io/
@@ -13,6 +14,9 @@
 - hackerrank
 - triplebyte
 - rackspace (Bare-Metal on-demand Virtual Cloud Server Hosting)
+- http://www.1point3acres.com/category/%E5%A6%82%E4%BD%95%E6%89%BE%E5%B7%A5%E4%BD%9C/
+- http://www.1point3acres.com/triplebyte-for-job-hunting/
+- 
 
 # Jobs sumbitted
 
@@ -31,6 +35,7 @@
 - Eloquent JavaScript: http://eloquentjavascript.net/
 - Leetcode solutions: https://github.com/fishercoder1534/Leetcode
   https://github.com/haoel/leetcode https://github.com/kamyu104
+  https://github.com/leetcoders/LeetCode
 - List of awesome university courses for learning Computer Science:
   https://github.com/chesteve/awesome-courses
 - Harvard Data Science course: http://cs109.github.io/2014/
