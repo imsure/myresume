@@ -39,4 +39,12 @@
 - List of awesome university courses for learning Computer Science:
   https://github.com/chesteve/awesome-courses
 - Harvard Data Science course: http://cs109.github.io/2014/
-- Analysis of Algorithms course by one of CLRS author: http://www.columbia.edu/~cs2035/courses/csor4231.F15/index.html 
+- Analysis of Algorithms course by one of CLRS author:
+  http://www.columbia.edu/~cs2035/courses/csor4231.F15/index.html 
+- Everything you need to prepare for your technical interview:
+  https://github.com/andreis/interview
+- Hacking a Google Interview:
+  https://courses.csail.mit.edu/iap/interview/index.php
+- Stanford Engineering Everywhere: https://see.stanford.edu/Course
+- Lecture notes by Prof. Jeff Erickson @UIUC:
+  http://jeffe.cs.illinois.edu/teaching/algorithms/
