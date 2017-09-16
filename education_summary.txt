@@ -1,0 +1,35 @@
+University of Arizona
+
+Took courses on all aspects of Computer Science: from theory, systems
+to applications. Worked as TA for CS460: Database Systems and RA for
+ANTARES (https://www.noao.edu/ANTARES/) project, where I was involved
+in building and researching high performance data processing pipeline
+for astronomical data in collaboration with astronomers at NOAO.
+
+
+University of St. Thomas
+
+Took courses on all aspects of Software Engineering, with a focus on
+Big Data technology. Worked on the project "Large-scale Neural Network
+Modeling with Hadoop" (http://imsure.github.io/NeuralGiraph/) to
+explore the use of big data technologies in computational neuroscience
+and I was responsible for investigating graph processing in Hadoop.
+
+
+Why do you want to work at LeetCode?
+
+LeetCode helps me improve my problem solving and coding skills
+significantly, it is something that you don't get to learn in
+school. I want to work at LeetCode because it matters, because it is
+highly impactful.
+
+
+Describe a project that you did? (Please include links to the relevant
+projects if available)
+
+I once worked on a project called "Large-scale Neural Modeling in
+MapReduce and Giraph" where we used Hadoop to implement a large scale
+basal ganglia neural network model in MapReduce and Giraph. I was
+responsible for researching the graph processing in Hadoop and all the
+implementations. The link to the project:
+http://imsure.github.io/NeuralGiraph/
