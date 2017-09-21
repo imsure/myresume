@@ -6,7 +6,7 @@
 # Job sources
 
 - `LinkedIn`, `Indeed`, `Monster`, `Dice`, `Piazza`, `StackOverflow`,
-  `ZipRecruiter`, `techcrunch`
+  `ZipRecruiter`, `techcrunch`, `CareerBuilder`
 - [Josh McCabe](https://www.linkedin.com/in/josh-mccabe-43542134/)
   mentioned opportunities in Amazon.
 - http://pachyderm.io/
