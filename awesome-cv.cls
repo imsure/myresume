@@ -678,6 +678,19 @@
 	\coursetitlestyle{#1} & \courseworkstyle{#2} \\
 }
 
+\newcommand*{\cvcoursework}[3]{%
+  \vspace{-2.0mm}
+  \setlength\tabcolsep{3pt}
+  \setlength{\extrarowheight}{0pt}
+  \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{\textwidth - 4.5cm} R{4.6cm}}
+    \ifempty{#2#3}
+      {\entrypositionstyle{#1} & \entrydatestyle{#2} \\}
+      {\entrypositionstyle{#1} & \entrydatestyle{#2} \\}
+    \multicolumn{2}{L{\textwidth}}{\descriptionstyle{#3}}
+  \end{tabular*}%
+}
+
+
 % Define an environment for cvitems(for cventry)
 \newenvironment{cvitems}{%
   \vspace{-4.0mm}
