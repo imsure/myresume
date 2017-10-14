@@ -48,3 +48,5 @@
 - Stanford Engineering Everywhere: https://see.stanford.edu/Course
 - Lecture notes by Prof. Jeff Erickson @UIUC:
   http://jeffe.cs.illinois.edu/teaching/algorithms/
+- Big data Infrastructure:
+  http://lintool.github.io/UMD-courses/bigdata-2015-Spring/
