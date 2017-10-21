@@ -13,6 +13,7 @@
 - http://meteor.io/
 - hackerrank
 - triplebyte
+- leap.ai
 - rackspace (Bare-Metal on-demand Virtual Cloud Server Hosting)
 - http://www.1point3acres.com/category/%E5%A6%82%E4%BD%95%E6%89%BE%E5%B7%A5%E4%BD%9C/
 - http://www.1point3acres.com/triplebyte-for-job-hunting/
