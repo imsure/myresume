@@ -3,27 +3,20 @@
 - Update LinkedIn. (done)
 - Add tags to Github repos.
 
-# Job sources
+# Platforms
 
 - `LinkedIn`, `Indeed`, `Monster`, `Dice`, `Piazza`, `StackOverflow`,
   `ZipRecruiter`, `techcrunch`, `CareerBuilder`
-- [Josh McCabe](https://www.linkedin.com/in/josh-mccabe-43542134/)
-  mentioned opportunities in Amazon.
 - http://pachyderm.io/
 - http://meteor.io/
 - hackerrank
 - triplebyte
 - leap.ai
+- Devpost
 - rackspace (Bare-Metal on-demand Virtual Cloud Server Hosting)
 - http://www.1point3acres.com/category/%E5%A6%82%E4%BD%95%E6%89%BE%E5%B7%A5%E4%BD%9C/
 - http://www.1point3acres.com/triplebyte-for-job-hunting/
 - 
-
-# Jobs sumbitted
-
-| Company | Job title | Status | Notes |
-| ------- | ----------- | ------ | ----- |
-
 
 # Quick links
 
@@ -51,3 +44,8 @@
   http://jeffe.cs.illinois.edu/teaching/algorithms/
 - Big data Infrastructure:
   http://lintool.github.io/UMD-courses/bigdata-2015-Spring/
+- Cornell system courses:
+  http://www.cs.cornell.edu/courses/cs6410/2016fa/sched.htm
+  http://www.cs.cornell.edu/courses/cs5412/2016sp
+- https://visualgo.net/en
+  Web-based Tool for Teaching Data Structures and Algorithms
