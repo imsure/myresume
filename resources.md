@@ -23,7 +23,7 @@
 - A beautiful personal portfolio: http://shermanleung.com/
 - Algorithm visualizer: http://algo-visualizer.jasonpark.me/
 - [AI opencourse](https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.101x+2T2017/courseware/84352e81502f4a09b77a0c156ac2b8fa/b8423d030cf74effadd0cff9fb6e6be1/#) 
-- khanacademy's algorithem:
+- khanacademy's algorithm:
   https://www.khanacademy.org/computing/computer-science/algorithms/
 - Computational-Tools-for-Data-Science: https://github.com/mcrovella/CS505-Computational-Tools-for-Data-Science
 - Eloquent JavaScript: http://eloquentjavascript.net/
@@ -49,3 +49,4 @@
   http://www.cs.cornell.edu/courses/cs5412/2016sp
 - https://visualgo.net/en
   Web-based Tool for Teaching Data Structures and Algorithms
+- Princeton algorithm book: https://algs4.cs.princeton.edu
