@@ -50,6 +50,8 @@
 - https://visualgo.net/en
   Web-based Tool for Teaching Data Structures and Algorithms
 - Princeton algorithm book: https://algs4.cs.princeton.edu
+- Interview suggestions and tips given by Kate Mats:
+  http://katemats.com/hiring-interviews/
 
 
 # System Design Reading List
