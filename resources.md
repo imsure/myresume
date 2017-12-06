@@ -50,3 +50,9 @@
 - https://visualgo.net/en
   Web-based Tool for Teaching Data Structures and Algorithms
 - Princeton algorithm book: https://algs4.cs.princeton.edu
+
+
+# System Design Reading List
+- The Architecture of Open Source Applications:
+  http://www.aosabook.org/en/index.html
+- http://www.drdobbs.com/web-development/building-scalable-web-architecture-and-d
