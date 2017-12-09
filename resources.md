@@ -52,6 +52,8 @@
 - Princeton algorithm book: https://algs4.cs.princeton.edu
 - Interview suggestions and tips given by Kate Mats:
   http://katemats.com/hiring-interviews/
+- MIT open course: Advanced Data Structures
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/index.htm
 
 
 # System Design Reading List
