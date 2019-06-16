@@ -4,5 +4,6 @@
 *.aux
 *.log
 *.out
+*.txt
 fonts
 letters/
